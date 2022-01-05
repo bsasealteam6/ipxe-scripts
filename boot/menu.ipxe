@@ -1,5 +1,5 @@
 #!ipxe
-isset ${server-ip} || set server-ip www.adriankoshka.xyz
+isset ${server-ip} || set server-ip raw.githubusercontent.com/bsasealteam6/ipxe-scripts/master/
 
 :start
 menu iPXE boot menu
